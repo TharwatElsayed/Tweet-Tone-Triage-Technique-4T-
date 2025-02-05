@@ -1,2 +1,2 @@
-# Tweet-Tone-Triage-3T-
-Tweet Tone Triage Application: A Secured Federated Deep Learning Approach
+Tweet Tone Triage Technique (4T): A Secured
+Federated Deep Learning Approach
