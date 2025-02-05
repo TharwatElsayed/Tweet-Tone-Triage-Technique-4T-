@@ -105,8 +105,7 @@ df = pd.read_csv('labeled_data.csv')
 # Create a vertical tab menu in the sidebar
 with st.sidebar:
     selected = option_menu(
-        menu_title="Tweet Tone Triage Technique (4T): A Secured
-Federated Deep Learning Approach",  # Title of the menu
+        menu_title="Tweet Tone Triage Technique (4T): A Secured Federated Deep Learning Approach",  # Title of the menu
         options=["Data Acquisition", "Data Exploration", "Data Classes Balancing", "Data Preparation", "ML Model Selection", "Try The Model", "About", "Contact"],  # Menu options
         icons=["house","cloud", "list", "gear", "graph-up", "briefcase","info","envelope"],  # Optional icons
         menu_icon="cast",  # Icon for the menu title
