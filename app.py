@@ -371,7 +371,7 @@ elif selected == "ML Model Selection":
 elif selected == "Try The Model":
     st.title("Tweet Tone Triage Application")
     # Input box for entering the tweet
-    user_input = st.text_area("Enter the tweet:", "#_ I AM a Happy Boy")
+    user_input = st.text_area("Enter the tweet:", "!!!!! RT @mleew17: boy dats cold...tyga dwn bad for cuffin dat hoe in the 1st place!!")
 
     # Button to trigger prediction
     if st.button('Predict'):
